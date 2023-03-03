@@ -1,7 +1,7 @@
 # ROLOS: Separating Signal from Noise in Car Racing Communication
 This is the README file from  Constructor Learning's students' final project on identifying key messages in the radio communications of auto racing teams using NLP machine and deep learning techniques. For privacy reasons, there is no additional data or code added, please contact Kai Braeunig for any questions.
 
-The project was done in collaboration with ROLOS.
+The project was done in collaboration with [ROLOS](https://rolos.com/).
 
 ## Authors
 [Kai Braeunig](https://www.linkedin.com/in/ai-kai),
