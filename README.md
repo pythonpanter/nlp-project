@@ -20,4 +20,4 @@ The goal of the project is to help engineers focus on high-priority messages by 
 
 ROLOS' and the students' approach involves recording real-time radio communications, audio transcription of every single message, and using NLP machine and deep learning techniques to classify and identify key messages. The result is a highly efficient system that ensures engineers focus only on the essential messages that can affect the race.
 
-![Approach](/assets/image2.png "Approach")
+![Approach](/image2.png "Approach")
